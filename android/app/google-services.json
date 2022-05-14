@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408253022191",
+    "firebase_url": "https://mandados-flutter.firebaseio.com",
+    "project_id": "mandados-flutter",
+    "storage_bucket": "mandados-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408253022191:android:917891b413034da832801a",
+        "android_client_info": {
+          "package_name": "com.nyctobits.mandados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408253022191-62uqnhftk4n147bjji963uj005iddoir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nyctobits.mandados",
+            "certificate_hash": "4154e09cfe77107e444a48c8662749870e0efdce"
+          }
+        },
+        {
+          "client_id": "408253022191-2li8ujdpornru1hvhiat1if54do84nh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5kGvzZZprCsYSfiXfHVSkKE8Nhs4uGWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408253022191-2li8ujdpornru1hvhiat1if54do84nh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
